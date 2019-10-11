@@ -1,2 +1,3 @@
 # Prediction-of-Lysine-Glutarylation
-Prediction of Lysine Glutarylation PTM site in Protein using Peptide Sequence Evolution based Features resolving data imbalance issue
+Prediction of Lysine Glutarylation PTM site in Protein using Peptide Sequence Evolution based Features resolving data imbalance issue.
+Glutarylation is a new acylated post-translational modification. It is responsible for diverse metabolic functions and biological process. Identification of glutarylation is very significant as it controls different mitochondrial activities. Laboratory methods for identification of glutarylation is costly and takes a lot of time. If a computational tool can identify lysine glutarylation sites efficiently, it will both save time and money.The performance of our model outperforms the previously developed tool MDDGlutar and GlutPred to a great extent in all the cases.
